@@ -25,11 +25,11 @@ function App() {
           <Route path="/about">
 
           </Route>
-          <Route path="/depatment">
+          <Route path="/department">
             <Departments></Departments>
           </Route>
-          <Route path="/notfound">
-          <Notfound></Notfound>
+          <Route path="*">
+            <Notfound></Notfound>
           </Route>
         </Switch>
       </Router>
