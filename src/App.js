@@ -1,8 +1,5 @@
 import './App.css';
-import Carousels from './components/Carousels/Carousels';
 import Departments from './components/Departments/Departments';
-import Footer from './components/Footer/Footer';
-import Header from './components/Header/Header';
 import {
   BrowserRouter as Router,
   Switch,
@@ -11,6 +8,11 @@ import {
 } from "react-router-dom";
 import Home from './components/Home/Home';
 import Notfound from './components/Notfound/Notfound';
+import Department from './components/Department/Department';
+import Contactus from './components/Contuct/Contactus';
+
+import Aboutus from './components/Aboutus/Aboutus';
+
 function App() {
   return (
     <div className="App">
@@ -22,10 +24,16 @@ function App() {
           <Route exact path="/home">
             <Home></Home>
           </Route>
-          <Route path="/about">
-
+          <Route path="/Contactus">
+            <Contactus></Contactus>
           </Route>
-          <Route path="/department">
+          <Route path="/about">
+            <Aboutus></Aboutus>
+          </Route>
+          <Route path="/Department">
+            <Department></Department>
+          </Route>
+          <Route path="/Departments">
             <Departments></Departments>
           </Route>
           <Route path="*">
@@ -33,13 +41,8 @@ function App() {
           </Route>
         </Switch>
       </Router>
-    </div>
+    </div >
   );
 }
 
 export default App;
-
- // <Header></Header>
-      // <Carousels></Carousels>
-      // <Departments></Departments>
-      // <Footer></Footer>
