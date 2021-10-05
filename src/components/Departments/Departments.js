@@ -37,12 +37,13 @@ const Departments = () => {
                           <ins className="text-danger fw-bold"><Card.Title>{course.title}</Card.Title></ins>
                           <Card.Text>
                             {course.description}<br />
-                            <ins className="text-danger">Course Fee: {course.courseFee}</ins>
+                            <ins className="text-danger fw-bold">Course Fee: {course.courseFee}</ins>
                           </Card.Text>
                           <Link to='/department'><Button className="btn btn-success" variant="primary">More Info</Button></Link>
                         </Card.Body>
                       </Card>
                     </div>)
+
                 }
 
               </div>
