@@ -5,7 +5,7 @@
     "id": 1,
     "courseFee": 110000,
     "title": "Computer Technology",
-    "description": "Computer technology combines the hardware of computers and computer-controlled devices with software—operating systems, authoring tools, expert systems, and courseware—to support training technology."
+    "description": "Computer technology combines the hardware of computers and computer-controlled devices with software—operating systems, authoring tools, expert systems, and courseware—to support training technologywith software—operating systems, authoring tools, expert systems, and courseware—to sup."
   },
   {
     "userId": 1,
@@ -13,7 +13,7 @@
     "id": 2,
     "courseFee": 80000,
     "title": "Civil Technology",
-    "description": "The definition of civil technology is the field of drafting, cartography, traffic technology and the analysis of construction materials to support construction, engineering, and architecture for roads, bridges and other public structures."
+    "description": "The definition of civil technology is the field of drafting, cartography, traffic technology The definition of civil technology is the field of drafting, cartography, traffic technology and the analysis of construction materials to support construction, engineering, and architecture for roads, bridge."
   },
   {
     "userId": 1,
@@ -21,7 +21,7 @@
     "id": 3,
     "courseFee": 123000,
     "title": "Electronics Technology",
-    "description": "Electronics technology is the application of scientific theories and principles in the design, production, installation, testing, service, use, and control of electrical and electronic parts, equipment and systems."
+    "description": "Electronics technology is the application of scientific theories and principles in the design, production, installation, testing, service, use, and control of electrical and electronic  production, installation, testing, service, use, and control ofcontrol of  electrical and electroniparts, equipment and systems"
   },
   {
     "userId": 1,
@@ -29,7 +29,7 @@
     "id": 4,
     "courseFee": 130000,
     "title": "Electrical Technology",
-    "description": "Electrical Technology – The technology of producing, storing, controlling, transmitting and getting work from electrical energy. (Example applications: power plant generator, flashlight, electric motor in a can opener, doorbell, electric heater, hair dryer.)"
+    "description": "Electrical Technology – The technology of producing, storing, controlling, transmitting and gettiting and getting wng work from electrical energy. (Example applications: power plant generator, flashlight, electric motor in a can opener,opener,    ddoorbelloorbell, electric heatelectric heater, hair dryer."
   },
   {
     "userId": 1,
@@ -37,7 +37,7 @@
     "id": 5,
     "courseFee": 120000,
     "title": "Mechanical Technology",
-    "description": "Mechanical Technology is a hands-on curriculum that provides an in-depth course of study in the technological. Students are exposed to the current technology chemistry, mathematics, used in industry and prepared for careers in the field of mechanical design and technology."
+    "description": "Mechanical Technology is a hands-on curriculum that provides an in-depth course of study in the technological. Students are exposed to the current technology chemistry, mathematics,study in the technological. Students are exposed to the current technology chemistry, mathematics used in industry and prepared fne."
   },
   {
     "userId": 1,
@@ -45,7 +45,7 @@
     "id": 6,
     "courseFee": 180000,
     "title": "Electro-medical Technology",
-    "description": "The first Electro-Medical Technology Department was started in 2005 in Bangladesh under the Bangladesh Technical Education Board. In the meantime, there is an opportunity to study electro-medical technology in ISTT and a couple of other private institutions in Bangladesh. "
+    "description": "The first Electro-Medical Technology Department was started in 2005 in Bangladesh under the Bangladesh Technical Education Board. In the meantime, there is an opportunity to study electro-medical technology in ISTT and a couple of other private institutions in Bangladesh.Technical Education Board under Technical. "
   },
   {
     "userId": 1,
@@ -53,7 +53,7 @@
     "id": 7,
     "title": "Power Technology",
     "courseFee": 185000,
-    "description": "Power Technology (Power Tech) consists of three related areas: Power, Energy and Transportation. This class is generally given to students in eighth grade for one marking period, meeting every other day."
+    "description": "Power Technology (Power Tech) consists of three related areas: Power, Energy and Transportation. This class is generally given to students in eighth .Energy and Transportation. This class is generally given to students in eighth grade for one marking period,Transportation. This class is generally meeting  other day."
   },
   {
     "userId": 1,
@@ -61,7 +61,7 @@
     "id": 8,
     "title": "Marine Engineering",
     "courseFee": 10000,
-    "description": "Marine engineering is a branch of engineering that deals with the construction as well as the operation of mechanical equipment of seagoing craft, merine engineer is to design, build and maintain vehicles/structures used on or around water."
+    "description": "Marine engineering is a branch of engineering that deals with the construction as well as the operation of mechanical equipment of seagoing craft, merine engineer merine engineer is to design, build and maintain vehicles/structures used on or around water.is to design, build and maintain vehicles/."
   },
   {
     "userId": 1,
@@ -69,6 +69,6 @@
     "id": 9,
     "title": "Chemical Technology",
     "courseFee": 11000,
-    "description": "Chemical technology deals with the chemical unit operations, organic, analytical and inorganic chemistry, mathematics, policies and practices in areas of environ for quality help the graduate to understand the operations of."
+    "description": "Chemical technology deals with the chemical unit operations, organic, analytical and inorganic chemistry, mathematics, Chemical technology deals with the chemical unit operations, organic, analytical and inorganic chemistry, mathematics, policies and practices in areas of."
   }
 ]
