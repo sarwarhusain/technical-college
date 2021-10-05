@@ -30,7 +30,7 @@ const Departments = () => {
               <div className="row">
                 {
                   courses.slice(0, 3).map((course) =>
-                    <div className="col-md-4 py-4">
+                    <div className="col-md-4 py-4" key={course.id}>
                       <Card className="bg-light shadow p-3 mb-5 bg-body rounded" style={{ width: '18rem' }}>
                         <Card.Img variant="top" src={course.img} />
                         <Card.Body>
